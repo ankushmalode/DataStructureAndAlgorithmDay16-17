@@ -1,4 +1,4 @@
-package com.bridgelabz.Permutation;
+package com.bridgelabz.AlgorithmProblms;
 
 import java.util.*;
 
